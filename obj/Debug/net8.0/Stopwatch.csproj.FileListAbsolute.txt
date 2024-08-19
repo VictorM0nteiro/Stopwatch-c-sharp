@@ -1,0 +1,14 @@
+C:\DEV\Stopwatch\bin\Debug\net8.0\Stopwatch.exe
+C:\DEV\Stopwatch\bin\Debug\net8.0\Stopwatch.deps.json
+C:\DEV\Stopwatch\bin\Debug\net8.0\Stopwatch.runtimeconfig.json
+C:\DEV\Stopwatch\bin\Debug\net8.0\Stopwatch.dll
+C:\DEV\Stopwatch\bin\Debug\net8.0\Stopwatch.pdb
+C:\DEV\Stopwatch\obj\Debug\net8.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfoInputs.cache
+C:\DEV\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfo.cs
+C:\DEV\Stopwatch\obj\Debug\net8.0\Stopwatch.csproj.CoreCompileInputs.cache
+C:\DEV\Stopwatch\obj\Debug\net8.0\Stopwatch.dll
+C:\DEV\Stopwatch\obj\Debug\net8.0\refint\Stopwatch.dll
+C:\DEV\Stopwatch\obj\Debug\net8.0\Stopwatch.pdb
+C:\DEV\Stopwatch\obj\Debug\net8.0\Stopwatch.genruntimeconfig.cache
+C:\DEV\Stopwatch\obj\Debug\net8.0\ref\Stopwatch.dll
