@@ -18,8 +18,11 @@ namespace Stopwatch
             Console.WriteLine("0 = Sair");
             Console.WriteLine("Quanto tempo deseja contar?");
 
-            string data = Console.ReadLine().ToLower(); // Tolower vai converter tudo lido para minúsculo
+            string data = Console.ReadLine().ToLower(); // Tolower vai converter tudo lido para minúsculo // data = dados
+            char type = char.Parse(data.Substring(data.Length-1,1)); // Converte a parte expecificada da string(substring em um char) (posição,quantidade)
+            //data.lenght trará a quantidade digitada, como arrays começam a partir de 0 e o lenght conta a partir do 1 portanto para pegar a ultima posição do array é necessário subtrair 1 do lenght
             Console.WriteLine(data);
+            Console.WriteLine(type);
         }
 
         static void Start(int time)
