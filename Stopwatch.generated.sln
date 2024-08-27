@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stopwatch", "Stopwatch.csproj", "{EBDD068A-E72D-450A-8C52-C7367FAD0D37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stopwatch", "Stopwatch.csproj", "{FFC57022-26E8-4E89-A630-271B4664CC95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EBDD068A-E72D-450A-8C52-C7367FAD0D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EBDD068A-E72D-450A-8C52-C7367FAD0D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EBDD068A-E72D-450A-8C52-C7367FAD0D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EBDD068A-E72D-450A-8C52-C7367FAD0D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC57022-26E8-4E89-A630-271B4664CC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC57022-26E8-4E89-A630-271B4664CC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC57022-26E8-4E89-A630-271B4664CC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC57022-26E8-4E89-A630-271B4664CC95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
