@@ -21,8 +21,10 @@ namespace Stopwatch
             string data = Console.ReadLine().ToLower(); // Tolower vai converter tudo lido para minúsculo // data = dados
             char type = char.Parse(data.Substring(data.Length-1,1)); // Converte a parte expecificada da string(substring em um char) (posição,quantidade)
             //data.lenght trará a quantidade digitada, como arrays começam a partir de 0 e o lenght conta a partir do 1 portanto para pegar a ultima posição do array é necessário subtrair 1 do lenght, new content, prestar atenção
-            Console.WriteLine(data);
+            int time = int.Parse(data.Substring(0, data.Length-1)); // a partir do 0, e quantidade é todos menos o ultimo
+
             Console.WriteLine(type);
+            Console.WriteLine(time);
         }
 
         static void Start(int time)
